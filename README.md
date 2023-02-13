@@ -24,6 +24,6 @@ Foi elaborado 4 modelos utilizando o algorotimo K-means. 2 Modelos com 3 cluster
 
 Foi realizado o tratamento de outliers e a substituição dos valores encontrados com base na regra do cut-off.
 
-Sem dúvidas os modelos com tratamento de outliers ficaram mais balanceados e a área de negócio deve ajustar na escolha de utilização de 3 ou 4 clusters, porém conforme o gráfico de teste dos valores de k, indicamos a utilização de 3 clusters.
+Sem dúvidas os modelos com tratamento de outliers ficaram mais balanceados e a área de negócio deve participar da escolha de utilização entre de 3 ou 4 clusters, porém conforme o gráfico de teste dos valores de k, indicamos a utilização de 3 clusters.
 
 
